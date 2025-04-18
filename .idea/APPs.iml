@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/CalculadoraBasica/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/ConversordeUnidades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/Gerenciador de Contatos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/Guessing Game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/JogoDaForca/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/Lista de Tarefas/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/Sistema Bancario Simulado - Copia/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1 - easy/Sistema Bancario Simulado/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
